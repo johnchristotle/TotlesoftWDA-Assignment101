@@ -17,7 +17,7 @@ A website is simply a collection of digital resources, such as web pages and rel
 
 In this Assignment, you are to design a contemporary and visually appealing website using HTML and CSS only. The website should feature a logo, a navigation bar, a sidebar menu, and a curved design at the bottom. Additionally, it will be responsive, ensuring it adapts well to different devices and screen sizes as well as have a simple animation effect.
 
-A video tutorial and demo of the website has been uploaded to our Youtube Page ![Video Tutorial](https://youtube.com/@iamchristotle) in order to guide you through the process of creating a straightforward, responsive website using HTML and CSS with all the basic features you have been taught so far. Each step will be clearly demonstrated, allowing you to follow along where you are having any challenge.
+A video tutorial and demo of the website has been uploaded to our Youtube Page [Video Tutorial](https://youtube.com/@iamchristotle) in order to guide you through the process of creating a straightforward, responsive website using HTML and CSS with all the basic features you have been taught so far. Each step will be clearly demonstrated, allowing you to follow along where you are having any challenge.
 
 
 ## Steps To Creating A Simple Responsive Website with HTML and CSS Only
