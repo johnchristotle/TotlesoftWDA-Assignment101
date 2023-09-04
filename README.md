@@ -37,9 +37,10 @@ A video tutorial and demo of the website has been uploaded to our Youtube Page !
 
 * 3. Create a styles.css file. The file name must be styles and its extension .css
 
-* 4. **Source Code from Google Drive? ** Download the images folder from google drive and put this folder inside the project folder. This folder has all the images that will be used for this website.
+* 4. A. **Source Code from Google Drive? ** 
+* Download the images folder from google drive and put this folder inside the project folder. This folder has all the images that will be used for this website.
 
-** Source Code from GitHub? **
+* 4. B. ** Source Code from GitHub? **
 * Clone the project locally, change into the directory, and install the dependencies:
 
 ```sh
