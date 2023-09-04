@@ -20,16 +20,7 @@ In this Assignment, you are to design a contemporary and visually appealing webs
 A video tutorial and demo of the website has been uploaded to our Youtube Page ![Video Tutorial](https://youtube.com/@iamchristotle) in order to guide you through the process of creating a straightforward, responsive website using HTML and CSS with all the basic features you have been taught so far. Each step will be clearly demonstrated, allowing you to follow along where you are having any challenge.
 
 
-
-
-
-
-
-
-Another interesting thing about this project is that we will be working with an Ethereum 
-Scalability Solution like Polygon which helps us achieve things with cheap transaction fees.
-
-## Steps To Creating A Simple Responsiv Website with HTML and CSS Only
+## Steps To Creating A Simple Responsive Website with HTML and CSS Only
 
 ### Source Code:
 
