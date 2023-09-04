@@ -1,7 +1,7 @@
 ## Totlesoft Web Development Academy (TWDA) Assignment 101
 ** Design A Simple Responsive Website with HTML and CSS Only ** 
 
-![by Agholor Christotle](https://github.com/johnchristotle)
+[by Agholor Christotle](https://github.com/johnchristotle)
 
 
 This is a simple project to text your ability after the HTML and CSS basic classes.
@@ -24,9 +24,9 @@ A video tutorial and demo of the website has been uploaded to our Youtube Page !
 
 ### Source Code:
 
-* A. ![Source Code: GitHub](https://github.com/johnchristotle/TotlesoftWDA-Assignment101.git)
+* A. [Source Code: GitHub](https://github.com/johnchristotle/TotlesoftWDA-Assignment101.git)
 
-* B. ![Source Code: Google Drive](https://drive.google.com/drive/folders/1v7ePfTAh59DjH2yC387i5UbjildkswvW?usp=sharing)
+* B. [Source Code: Google Drive](https://drive.google.com/drive/folders/1v7ePfTAh59DjH2yC387i5UbjildkswvW?usp=sharing)
 
 
 ### Let's Begin:
@@ -346,4 +346,5 @@ If by any chance you encounter any difficulties while creating your own Website 
 
 
 ## Totlesoft
+* [totlesoft.com](https://totlesoft.com)
 ...where the magic happens!
